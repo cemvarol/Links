@@ -1,0 +1,91 @@
+How to install the PowerShell Active Directory module
+https://4sysops.com/archives/how-to-install-the-powershell-active-directory-module/
+
+Install a Virtual Router based on Windows Server 2012 R2 using PowerShell
+https://deploymentresearch.com/Research/Post/387/Install-a-Virtual-Router-based-on-Windows-Server-2012-R2-using-PowerShell
+
+Install the RRAS Role Service
+https://msdn.microsoft.com/en-us/library/dd314183(v=ws.10).aspx
+
+MOCS Companion Content
+https://www.microsoft.com/en-gb/learning/companion-moc.aspx
+
+Point to Site Problem - Error opening point to site VPN
+https://social.msdn.microsoft.com/Forums/en-US/572c1a71-eba0-4b47-a9d9-755a3c3939af/error-opening-point-to-site-vpn?forum=WAVirtualMachinesVirtualNetwork
+
+Scale Set Nedir
+https://social.technet.microsoft.com/wiki/contents/articles/36219.azure-vm-scale-set-tr-tr.aspx
+
+How to create a Virtual Machine Scale Set with the Azure portal
+https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-portal-create#next-steps
+
+What are virtual machine scale sets in Azure?
+https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-overview#creating-and-managing-scale-sets
+What are virtual machine scale sets in Azure?
+https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-overview#autoscale
+
+How to create a Virtual Machine Scale Set with the Azure portal
+https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/virtual-machine-scale-sets/virtual-machine-scale-sets-portal-create.md
+
+Azure VM scale sets and managed disks
+https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-managed-disks
+
+130 code results in Azure/azure-quickstart-templates
+https://github.com/Azure/azure-quickstart-templates/search?utf8=%E2%9C%93&q=scale+set&type=
+
+Create and deploy a virtual machine scale set
+https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-create
+
+Azure Quickstart Templates
+https://azure.microsoft.com/en-us/resources/templates/?term=vmss
+
+Deploy an autoscaling app using a template
+https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-deploy-scaling-app-template
+
+Azure CLI 2.0: Command reference - az
+https://docs.microsoft.com/en-us/cli/azure/
+
+How to create a Virtual Machine Scale Set with the Azure portal
+https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-portal-create
+
+Create a Windows virtual machine from a Resource Manager template
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/ps-template
+
+Simple deployment of a VM Scale Set of Windows VMs behind a load balancer with NAT rules
+https://github.com/Azure/azure-quickstart-templates/tree/master/201-vmss-windows-nat
+
+Azure VM Scale Sets intro Video
+https://www.youtube.com/watch?v=vh6sLvTNCCs
+
+How to Use JSON files in Node.js
+https://www.codementor.io/codementorteam/how-to-use-json-files-in-node-js-85hndqt32
+
+New Azure VPN Gateways now 6x faster
+https://azure.microsoft.com/en-gb/blog/new-azure-vpn-gateways-now-6x-faster/
+
+https://www.google.co.uk/search?q=get+the+list+of+azure+ad+computers&rlz=1C1CHBF_en-GBGB746GB746&oq=get+the+list+of+azure+ad+computers&aqs=chrome..69i57.7352j0j7&sourceid=chrome&ie=UTF-8
+
+URL Decoder/Encoder
+http://meyerweb.com/eric/tools/dencoder/
+
+Create a managed image of a generalized VM in Azure
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/capture-image-resource
+
+New Azure VPN Gateway SKU’s provide much higher bandwidth for hybrid workloads
+https://blogs.msdn.microsoft.com/azureedu/2017/06/23/new-azure-vpn-gateway-skus-provide-much-higher-bandwidth-for-hybrid-workloads/
+
+Choose a SKU or pricing tier for Azure Search
+https://docs.microsoft.com/en-us/azure/search/search-sku-tier
+
+Quick n Easy – VNet-to-VNet VPN from new Azure Portal using GUI
+https://ranjanajain.wordpress.com/2016/03/03/quick-n-easy-vnet-to-vnet-vpn-from-new-azure-portal-using-gui/
+
+Virtual machine extensions and features for Windows
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/extensions-features
+
+Azure Managed Disks Overview
+https://docs.microsoft.com/en-us/azure/storage/storage-managed-disks-overview
+
+Step by Step: Move Virtual Machine between Virtual Network in Microsoft Azure ARM model 1
+http://zapytajemila.pl/2016/07/step-by-step-move-virtual-machine-between-virtual-network-in-microsoft-azure-arm-model/
+
