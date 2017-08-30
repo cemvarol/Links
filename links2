@@ -64,3 +64,14 @@ https://docs.docker.com/engine/reference/commandline/save/#examples
 
 Roxette - Fading Like A Flower
 https://www.youtube.com/watch?v=8fGLiIvKKys
+
+
+COMMAND LINE TO INSTALL AND CONFIGURE DOCKERS - CONTAINERS
+Install-PackageProvider –Name NuGet –Force
+ 
+Install-Module –Name DockerMsftProvider –Repository PSGallery -Force
+
+Install-Package -Name Docker -ProviderName DockerMsftProvider
+
+Restart-Computer
+ 
