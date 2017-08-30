@@ -8,3 +8,59 @@ https://msdn.microsoft.com/en-us/library/cc754229(v=ws.11).aspx
 
 Check for "folder staging dfs" google search
 
+Reason to put AD DB (SYSVOL) to a different location
+Install a replica Active Directory domain controller in an Azure virtual network
+https://docs.microsoft.com/en-us/azure/active-directory/active-directory-install-replica-active-directory-domain-controller
+Extend Active Directory Domain Services (AD DS) to Azure
+https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/identity/adds-extend-domain
+
+PowerShell and IIS: 20 Practical Examples
+https://octopus.com/blog/iis-powershell
+
+How to use IISAdministration powershell cmdlets to configure IIS configuration settings
+https://blogs.iis.net/jeonghwan/how-to-use-iisadministration-powershell-cmdlets-to-configure-iis-configuration-settings
+
+Understanding the temporary drive on Windows Azure Virtual Machines
+https://blogs.msdn.microsoft.com/mast/2013/12/06/understanding-the-temporary-drive-on-windows-azure-virtual-machines/
+
+What is the difference in the “Host Cache Preference” settings when adding a disk to an Azure VM?
+https://stackoverflow.com/questions/19370693/what-is-the-difference-in-the-host-cache-preference-settings-when-adding-a-dis
+
+Exploring Windows Azure Drives, Disks, and Images
+https://blogs.msdn.microsoft.com/windowsazurestorage/2012/06/27/exploring-windows-azure-drives-disks-and-images/
+
+Internal load balancer overview
+https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-internal-overview
+
+The Dockers
+https://hub.docker.com/r/microsoft/iis/
+
+IISDocker
+https://github.com/microsoft/iis-docker/blob/master/windowsservercore/Dockerfile
+
+google search  "create docker image IIS"
+
+How To Create A Windows Container Image With IIS Using Docker
+https://www.youtube.com/watch?v=jHid09J7idg
+
+IIS Docker image
+https://github.com/Microsoft/iis-docker/blob/master/README.md
+
+Import and Export Docker images for windows container
+https://www.assistanz.com/import-and-export-docker-images/
+
+Export/Save only the top layer of a container
+https://groups.google.com/forum/#!topic/docker-user/0pgFG4BML80
+
+How can I get the size of a Docker image?
+https://www.quora.com/How-can-I-get-the-size-of-a-Docker-image
+
+
+Docker Commit
+https://docs.docker.com/engine/reference/commandline/commit/
+
+Docker Save
+https://docs.docker.com/engine/reference/commandline/save/#examples
+
+Roxette - Fading Like A Flower
+https://www.youtube.com/watch?v=8fGLiIvKKys
