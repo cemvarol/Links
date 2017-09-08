@@ -6,6 +6,10 @@ https://meyerweb.com/eric/tools/dencoder/
 https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-using-network-configuration-file
 https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-faq
 https://docs.microsoft.com/en-us/azure/billing/billing-subscription-transfer
+https://blogs.technet.microsoft.com/gbanin/2013/06/25/how-to-install-hyper-v-on-a-virtual-machine-in-hyper-v/
+https://www.experts-exchange.com/questions/28453855/How-to-run-Hyper-V-Virtual-Machine-in-Windows-Azure.html
+https://blogs.technet.microsoft.com/gbanin/2013/06/25/how-to-install-hyper-v-on-a-virtual-machine-in-hyper-v/
+
 
 shutdown /m \\192.168.1.101 /r /f /t 0
 shutdown /m \\192.168.1.102 /r /f /t 0
