@@ -6,3 +6,23 @@ https://meyerweb.com/eric/tools/dencoder/
 https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-using-network-configuration-file
 https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-faq
 https://docs.microsoft.com/en-us/azure/billing/billing-subscription-transfer
+
+shutdown /m \\192.168.1.101 /r /f /t 0
+shutdown /m \\192.168.1.102 /r /f /t 0
+shutdown /m \\192.168.1.103 /r /f /t 0
+shutdown /m \\192.168.1.104 /r /f /t 0
+shutdown /m \\192.168.1.105 /r /f /t 0
+shutdown /m \\192.168.1.106 /r /f /t 0
+shutdown /m \\192.168.1.107 /r /f /t 0
+shutdown /m \\192.168.1.108 /r /f /t 0
+shutdown /m \\192.168.1.109 /r /f /t 0
+shutdown /m \\192.168.1.110 /r /f /t 0
+shutdown /m \\192.168.1.111 /r /f /t 0
+shutdown /m \\192.168.1.112 /r /f /t 0
+shutdown /m \\192.168.1.113 /r /f /t 0
+shutdown /m \\192.168.1.114 /r /f /t 0
+shutdown /m \\192.168.1.115 /r /f /t 0
+shutdown /m \\192.168.1.116 /r /f /t 0
+
+
+
