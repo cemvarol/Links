@@ -9,24 +9,4 @@ https://docs.microsoft.com/en-us/azure/billing/billing-subscription-transfer
 https://blogs.technet.microsoft.com/gbanin/2013/06/25/how-to-install-hyper-v-on-a-virtual-machine-in-hyper-v/
 https://www.experts-exchange.com/questions/28453855/How-to-run-Hyper-V-Virtual-Machine-in-Windows-Azure.html
 https://blogs.technet.microsoft.com/gbanin/2013/06/25/how-to-install-hyper-v-on-a-virtual-machine-in-hyper-v/
-
-
-shutdown /m \\192.168.1.101 /r /f /t 0
-shutdown /m \\192.168.1.102 /r /f /t 0
-shutdown /m \\192.168.1.103 /r /f /t 0
-shutdown /m \\192.168.1.104 /r /f /t 0
-shutdown /m \\192.168.1.105 /r /f /t 0
-shutdown /m \\192.168.1.106 /r /f /t 0
-shutdown /m \\192.168.1.107 /r /f /t 0
-shutdown /m \\192.168.1.108 /r /f /t 0
-shutdown /m \\192.168.1.109 /r /f /t 0
-shutdown /m \\192.168.1.110 /r /f /t 0
-shutdown /m \\192.168.1.111 /r /f /t 0
-shutdown /m \\192.168.1.112 /r /f /t 0
-shutdown /m \\192.168.1.113 /r /f /t 0
-shutdown /m \\192.168.1.114 /r /f /t 0
-shutdown /m \\192.168.1.115 /r /f /t 0
-shutdown /m \\192.168.1.116 /r /f /t 0
-
-
-
+https://www.microsoft.com/en-us/download/confirmation.aspx?id=19727
